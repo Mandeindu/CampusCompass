@@ -2,6 +2,8 @@
 
 CampusCompass is a smart navigation and information system designed specifically for college campuses. It helps students, visitors, and faculty easily locate rooms, departments, facilities, and events within the campus using a clean and interactive interface.
 
+🌐 **Live Website**: [http://campuscompass.in/?i=1](http://campuscompass.in/?i=1)
+
 ---
 
 ## 🚀 Features
@@ -20,7 +22,7 @@ CampusCompass is a smart navigation and information system designed specifically
 - **JavaScript**
 - **Bootstrap**
 - **jQuery**
-- **Google Maps API** *(optional/if used)*
+- **Google Maps API** *(optional)*
 
 ---
 
@@ -40,3 +42,6 @@ CampusCompass/
 ├── images/
 │   └── campus.jpg
 └── README.md
+
+
+
